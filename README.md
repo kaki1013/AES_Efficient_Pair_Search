@@ -61,8 +61,9 @@ The entry point is typically `testsource.c` or `testsource.cpp`.
 
 This code was developed as part of the experiments in the following paper:
 
-> **Efficient Pair Search Techniques for Zero Difference-Based AES Cryptanalysis**  
-> *(Details about publication or submission venue will be updated soon.)*
+> Lee, M., Shin, H., Kim, I., Kim, S., Kwon, D., Hong, D., Sung, J., & Hong, S. (2025).
+> Hash Table Method for Data Search in Differential Cryptanalysis.
+> *Journal of The Korea Institute of Information Security and Cryptology*, 35(6), 1297–1308.
 
 ## License
 
